@@ -1,5 +1,8 @@
 # Project Name: Salesforce “Job satisfaction” visualization project
 
+<p align="center">
+<img src="images/Salesforce-logo.jpg" width="300">
+</p>
 
 #### -- Project Status: [Active]
 
@@ -71,4 +74,5 @@ By understanding what doing well and not from external reviews from employees co
 
 
 ## Contact
+https://github.com/jasminludolf/GA_DSI_capstone
 
