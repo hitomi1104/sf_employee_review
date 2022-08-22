@@ -23,10 +23,41 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 * Webscraping en Japan review (361 rows) -> japanese source
 * sadv
 
-### Data Cleaning and Preparation
+### Data Preparation & EDA
 #### Data Dictionary
+##### glassdoor
+| Column Name | Description |
+| --- | ----------- |
+| namefrom | Name of sender (company name) |
+| sendingdate | Date newsletter was sent |
+| subject | Subject of the newsletter |
+| sent | Number of sent newsletters |
+| nondelivered | Number of newsletters not delivered |
+##### en Japan
+| Column Name | Description |
+| --- | ----------- |
+| namefrom | Name of sender (company name) |
+| sendingdate | Date newsletter was sent |
+| subject | Subject of the newsletter |
+| sent | Number of sent newsletters |
+| nondelivered | Number of newsletters not delivered |
+##### glassdoor & en Japan combined
+| Column Name | Description |
+| --- | ----------- |
+| namefrom | Name of sender (company name) |
+| sendingdate | Date newsletter was sent |
+| subject | Subject of the newsletter |
+| sent | Number of sent newsletters |
+| nondelivered | Number of newsletters not delivered |
+##### product
+| Column Name | Description |
+| --- | ----------- |
+| namefrom | Name of sender (company name) |
+| sendingdate | Date newsletter was sent |
+| subject | Subject of the newsletter |
+| sent | Number of sent newsletters |
+| nondelivered | Number of newsletters not delivered |
 
-### EDA
 #### NLP
 #### NLU
 ### Findings
