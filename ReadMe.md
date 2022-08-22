@@ -29,7 +29,7 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 | Column Name | Description | Data Type | 
 | --- | ----------- | --- |
 | title | Headline of the review posted | object |
-| author_info | Data, Position, and Location | object |
+| author_info | Data/ Position/ Location | object |
 | rating | rating from star 1 to star 5 | float64 |
 | pros | Opinions Pros | object |
 | cons | Opinions Cons | object |
@@ -37,27 +37,26 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 | Column Name | Description | Data Type | 
 | --- | --------------------- | --- |
 | reviewer_info | Gender, Position, Hired right after college or not, Fulltime vs. Parttime | object |
-| title | Data, Position, and Location | object |
+| title | Data/ Position/ Location | object |
 | rating | rating from star 1 to star 5 | float64 |
-| review | Number of sent newsletters | object |
-| date | Number of newsletters not delivered | object |
+| review | Reviews (not separated into Pros or Cons) | object |
+| date | Date the review was posted | object |
 ##### glassdoor & en Japan combined
 | Column Name | Description | Data Type | 
 | --- | ----------- | --- |
 | title | Headline of the review posted | object |
-| author_info | Data, Position, and Location | object |
+| author_info | Data/ Position/ Location | object |
 | rating | rating from star 1 to star 5 | float64 |
-| pros | Number of sent newsletters | object |
-| cons | Number of newsletters not delivered | object |
+| pros | Opinions Pros | object |
+| cons | Opinions Cons | object |
 ##### product
 | Column Name | Description | Data Type | 
 | --- | ----------- | --- |
 | title | Headline of the review posted | object |
-| author_info | Data, Position, and Location | object |
+| author_info | Data/ Position/ Location | object |
 | rating | rating from star 1 to star 5 | float64 |
-| pros | Number of sent newsletters | object |
-| cons | Number of newsletters not delivered | object |
-
+| pros | Opinions Pros | object |
+| cons | Opinions Cons | object |
 #### NLP
 #### NLU
 ### Findings
