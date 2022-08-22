@@ -16,10 +16,16 @@ Globally, including Japan, Salesforce ranks among the top companies in employee 
 In this project I will explore what characteristics secifically influence employee satisfaction.
 
 ### Hypothesis
-By understanding what doing well and not from external reviews from employees continuously will make Salesforce remain to be a great place to work over 10 or more years.
+By continuously analyzing and visualizing employee's reviews which we can find online as well as understanding what salesforce actually doing well and not continuously will make Salesforce remain to be a great place to work over 10 or more years.
 
 ### Data Acquisition
-### Data Cleaning
+* Webscraping glassdoor review (9888 rows) -> global source
+* Webscraping en Japan review (361 rows) -> japanese source
+* sadv
+
+### Data Cleaning and Preparation
+#### Data Dictionary
+
 ### EDA
 #### NLP
 #### NLU
