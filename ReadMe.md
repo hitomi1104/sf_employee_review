@@ -36,11 +36,11 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 ##### en Japan
 | Column Name | Description | Data Type | 
 | --- | --------------------- | --- |
-| reviewer_info | Gender, Position, Hired right after college or not, Fulltime vs. Parttime | object |
-| title | Data/ Position/ Location | object |
+| reviewer_info | Gender/ Position/ First job or Not/ Full-time or Part-time | object |
+| title | Category of the reviews | object |
 | rating | rating from star 1 to star 5 | float64 |
 | review | Reviews (not separated into Pros or Cons) | object |
-| date | Date the review was posted | object |
+| date | Date the reviews was posted | object |
 ##### glassdoor & en Japan combined
 | Column Name | Description | Data Type | 
 | --- | ----------- | --- |
