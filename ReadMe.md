@@ -31,32 +31,32 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 | title | Headline of the review posted | object |
 | author_info | Data, Position, and Location | object |
 | rating | rating from star 1 to star 5 | float64 |
+| pros | Opinions Pros | object |
+| cons | Opinions Cons | object |
+##### en Japan
+| Column Name | Description | Data Type | 
+| --- | --------------------- | --- |
+| reviewer_info | Gender, Position, Hired right after college or not, Fulltime vs. Parttime | object |
+| title | Data, Position, and Location | object |
+| rating | rating from star 1 to star 5 | float64 |
+| review | Number of sent newsletters | object |
+| date | Number of newsletters not delivered | object |
+##### glassdoor & en Japan combined
+| Column Name | Description | Data Type | 
+| --- | ----------- | --- |
+| title | Headline of the review posted | object |
+| author_info | Data, Position, and Location | object |
+| rating | rating from star 1 to star 5 | float64 |
 | pros | Number of sent newsletters | object |
 | cons | Number of newsletters not delivered | object |
-##### en Japan
-| Column Name | Description |
-| --- | ----------- |
-| namefrom | Name of sender (company name) |
-| sendingdate | Date newsletter was sent |
-| subject | Subject of the newsletter |
-| sent | Number of sent newsletters |
-| nondelivered | Number of newsletters not delivered |
-##### glassdoor & en Japan combined
-| Column Name | Description |
-| --- | ----------- |
-| namefrom | Name of sender (company name) |
-| sendingdate | Date newsletter was sent |
-| subject | Subject of the newsletter |
-| sent | Number of sent newsletters |
-| nondelivered | Number of newsletters not delivered |
 ##### product
-| Column Name | Description |
-| --- | ----------- |
-| namefrom | Name of sender (company name) |
-| sendingdate | Date newsletter was sent |
-| subject | Subject of the newsletter |
-| sent | Number of sent newsletters |
-| nondelivered | Number of newsletters not delivered |
+| Column Name | Description | Data Type | 
+| --- | ----------- | --- |
+| title | Headline of the review posted | object |
+| author_info | Data, Position, and Location | object |
+| rating | rating from star 1 to star 5 | float64 |
+| pros | Number of sent newsletters | object |
+| cons | Number of newsletters not delivered | object |
 
 #### NLP
 #### NLU
