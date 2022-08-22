@@ -27,7 +27,7 @@ By continuously analyzing and visualizing employee's reviews which we can find o
 #### Data Dictionary
 ##### glassdoor
 | Column Name | Description | Data Type | 
-| --- | ----------- |
+| --- | ----------- | --- |
 | title | Headline of the review posted | object |
 | author_info | Data, Position, and Location | object |
 | rating | rating from star 1 to star 5 | float64 |
