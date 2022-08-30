@@ -1,4 +1,4 @@
-# Project Name: Salesforce “Job satisfaction” visualization project
+# Visualizing “Job satisfaction” 
 
 <p align="center">
 <img src="images/Salesforce-logo.jpg" width="300">
